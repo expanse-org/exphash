@@ -19,7 +19,7 @@ package ethash
 import (
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/expanse-org/go-expanse/common"
 )
 
 type Block interface {
